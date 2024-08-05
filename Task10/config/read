@@ -1,0 +1,18 @@
+url=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+username=Admin
+password=admin123
+
+
+empname=Peter Mac Anderson
+pass1=r123456
+
+jobtitle=IT
+Description=Writing software codes and developing programs
+Note=Experience of 2-3 years
+
+
+from=07
+to=07
+
+fdate=2024-08-08
+tdate=2024-12-08
